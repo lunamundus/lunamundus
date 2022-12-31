@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋
+### I'm Byeongkuk(nickname is lunamundus).
+---
+### :wrench: Languages and Tools...
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <!--
 **lunamundus/lunamundus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
