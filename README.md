@@ -1,5 +1,5 @@
 ### Hi 👋
-### I'm Byeongkuk(nickname is lunamundus).
+### I'm Byeongkuk.
 ---
 ### :wrench: Languages and Tools...
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
