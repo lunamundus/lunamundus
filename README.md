@@ -1,12 +1,12 @@
 ### 안녕하세요👋 저는 Byeongkuk 입니다.
 #### 저는 프로그래밍 관련 전공은 아니지만, 개발을 좋아하는 학생입니다🌱
 #### 현재는 Python를 주로 사용하고 있습니다.
-#### App 개발(Flutter)이나 Web 개발(React)에도 관심이 있습니다.
+#### App 개발과 Web 개발에 관심이 있습니다.
 
 ---
 
 ## 🔭 현재 진행 중인 프로젝트
-⏩ 
+⏩ YCC(Yonsei Computer Club) 동아리 홈페이지 제작 (2024.09. ~ )
 
 ---
 
@@ -21,10 +21,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
+### ⚙️ Backend
+
+### 🔗 Fullstack
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🛠️ Backend
 
 ### 💾 Databases
 
